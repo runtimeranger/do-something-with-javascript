@@ -35,3 +35,4 @@ for(let i=0; i<calculatedArray.length; i++){
 
 // warning: you are thinking this problem can be solved another way easily. remember you and me are totally different person. so your 
 // thinking may better than me. go with your thinking. i am just sharing here mine. 
+// thank you
