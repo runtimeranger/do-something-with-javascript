@@ -21,7 +21,6 @@ if(mainArray.length%2 == 0){
             calculatedArray.push(summation);
             count = 0;
             summation = 0;
-            mainArray.slice(mainArray[i]);
         }
     }
 }
